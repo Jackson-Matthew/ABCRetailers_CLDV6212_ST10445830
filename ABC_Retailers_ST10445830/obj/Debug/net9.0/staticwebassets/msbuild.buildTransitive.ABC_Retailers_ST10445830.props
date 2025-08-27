@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ABC_Retailers_ST10445830.props" />
+</Project>
